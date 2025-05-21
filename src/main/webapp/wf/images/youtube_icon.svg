@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_34" data-name="사각형 34" width="10.625" height="7.485" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="youtube_icon" transform="translate(-32 -21)">
+    <circle id="타원_8" data-name="타원 8" cx="12" cy="12" r="12" transform="translate(32 21)" fill="#1b1e2f"/>
+    <g id="그룹_2" data-name="그룹 2" transform="translate(38.688 29.257)">
+      <g id="그룹_1" data-name="그룹 1" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="패스_3" data-name="패스 3" d="M10.406,1.169A1.329,1.329,0,0,0,9.467.225,31.422,31.422,0,0,0,5.314,0,31.673,31.673,0,0,0,1.162.223a1.335,1.335,0,0,0-.939.945A13.962,13.962,0,0,0,0,3.743,14.056,14.056,0,0,0,.221,6.317a1.328,1.328,0,0,0,.939.944,31.6,31.6,0,0,0,4.152.223,31.609,31.609,0,0,0,4.152-.223,1.335,1.335,0,0,0,.939-.944,14.056,14.056,0,0,0,.221-2.574,13.991,13.991,0,0,0-.219-2.574M4.227,5.324V2.163L7.005,3.744Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

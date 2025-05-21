@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_259" data-name="사각형 259" width="24" height="24" transform="translate(555 3691)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="iocn1" transform="translate(-555 -3691)" clip-path="url(#clip-path)">
+    <path id="coin-fill" d="M25.1,13.094v2.182c0,3.615-5.373,6.545-12,6.545-6.509,0-11.808-2.827-11.995-6.352L1.1,15.276V13.094c0,3.615,5.373,6.545,12,6.545S25.1,16.709,25.1,13.094Zm-12-8.727c6.627,0,12,2.93,12,6.545s-5.373,6.545-12,6.545-12-2.931-12-6.545S6.469,4.367,13.1,4.367Z" transform="translate(553.903 3689.906)" fill="#fff"/>
+  </g>
+</svg>

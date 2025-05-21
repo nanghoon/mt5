@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sqlMap PUBLIC "-//iBATIS.com//DTD SQL Map 2.0//EN" "http://www.ibatis.com/dtd/sql-map-2.dtd">
+
+<sqlMap namespace="Sample">
+
+	<typeAlias  alias="egovMap" type="egovframework.rte.psl.dataaccess.util.EgovMap"/>
+	<typeAlias  alias="searchVO" type="egovframework.example.sample.service.SampleDefaultVO"/>
+	
+	<select id="selectNoticeListCnt" resultClass="int">
+        <![CDATA[
+            SELECT count(*)
+            FROM notice
+            where lang = #lang#
+        ]]>
+	</select>
+	<select id="selectNoticeList" resultClass="EgovMap">
+        <![CDATA[
+            SELECT *
+            FROM notice
+            where lang = #lang#
+            order by ndate desc
+            limit #first# , #record#
+        ]]>
+	</select>
+	<select id="selectNoticeDetail" resultClass="EgovMap">
+        <![CDATA[
+            SELECT *
+            FROM notice
+            WHERE idx = #idx#
+        ]]>
+	</select>
+	<insert id="insertNotice">
+		<![CDATA[
+			INSERT INTO notice
+				( title, 
+				  text, 
+				  lang, 
+				  ndate)
+			VALUES ( 
+				#title#, 
+				#text#, 
+				#lang#, 
+				#ndate#)
+		]]>
+	</insert>		
+	<update id="updateNotice">
+		<![CDATA[
+			UPDATE notice
+			SET title=#title#
+				, text=#text#
+				, ndate = #ndate#
+			WHERE idx=#idx#
+		]]>
+	</update>
+	<delete id="deleteNotice">
+		<![CDATA[
+			DELETE FROM notice
+			WHERE idx=#idx#
+		]]>
+	</delete>
+</sqlMap>

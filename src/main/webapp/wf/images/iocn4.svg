@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_262" data-name="사각형 262" width="24" height="24" transform="translate(1005 3918)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="iocn4" transform="translate(-1005 -3918)" clip-path="url(#clip-path)">
+    <path id="bar-chart-grouped-fill" d="M2.526,15.158H5.053V26.526H2.526Zm3.789,2.526H8.842v8.842H6.316Zm13.895-7.579h2.526V26.526H20.211ZM24,12.632h2.526V26.526H24ZM11.368,2.526h2.526v24H11.368Zm3.789,2.526h2.526V26.526H15.158Z" transform="translate(1002.474 3915.474)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_85" data-name="사각형 85" width="21" height="21" transform="translate(1603 4417)" fill="#667085" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="more" transform="translate(-1603 -4417)" clip-path="url(#clip-path)">
+    <path id="more-fill_1_" data-name="more-fill (1)" d="M5.833,11.667A2.333,2.333,0,1,0,8.167,14,2.34,2.34,0,0,0,5.833,11.667Zm16.333,0A2.333,2.333,0,1,0,24.5,14,2.34,2.34,0,0,0,22.167,11.667Zm-8.167,0A2.333,2.333,0,1,0,16.333,14,2.34,2.34,0,0,0,14,11.667Z" transform="translate(1599.5 4413.5)" fill="#667085"/>
+  </g>
+</svg>

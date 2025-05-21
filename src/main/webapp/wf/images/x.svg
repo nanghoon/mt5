@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_84" data-name="사각형 84" width="21" height="21" transform="translate(1549 4417)" fill="#667085" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="x" transform="translate(-1549 -4417)" clip-path="url(#clip-path)">
+    <path id="twitter-x-fill_2_" data-name="twitter-x-fill (2)" d="M18.783,3.252,13.477,9.318,8.889,3.252H2.244l7.939,10.382-7.525,8.6H5.881L11.689,15.6l5.076,6.636h6.48L14.968,11.293,22,3.252Zm-1.13,17.055L6,5.078H7.919L19.437,20.307Z" transform="translate(1546.756 4414.757)" fill="#667085"/>
+  </g>
+</svg>
