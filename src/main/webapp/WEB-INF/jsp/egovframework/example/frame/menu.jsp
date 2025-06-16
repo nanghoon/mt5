@@ -6,7 +6,7 @@
 	 <div class="header-top">
 	 	<div class="header-frame">
             <div class="h-right">
-              <a href="https://trader.troymarketworld.com/login" target="_blank" class="userlogin-btn w-inline-block">
+              <a href="https://clientportal.troymarketworld.com/login" target="_blank" class="userlogin-btn w-inline-block">
                 <div class="user-ltxt"><spring:message code="menu.login"/></div>
               </a>
               <select onchange="changeLang(this)" class="select-field w-select">
